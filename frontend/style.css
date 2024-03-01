@@ -6,6 +6,10 @@ body {
     background-color: rgb(1, 183, 249);
     color: white;
 }
+a{
+  color : white;
+  text-decoration:none;
+}
 #navbar {
     /* border: 2px solid white; */
     background-color: black;
